@@ -193,7 +193,7 @@ with open(file_to_save, "w") as txt_file:
 This python code can be used to audit not only other congressional districts, but also senatorial districts, local elections and state
 elections.
 
-Firtly, the code can be modified to show candidate performance by counties. This will tell how popular the candidates are in each county.
+Firstly, the code can be modified to show candidate performance by counties. This will tell how popular the candidates are in each county.
 
 Secondly, the code can be used in state elections by uploading state election information and modifying the code to display states election results 
 instead of election result by county.
