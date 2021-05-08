@@ -202,6 +202,7 @@ Finally, more information can be provided such as voter demographic information.
 such as age, state of origin and political ideology. This will help in studying electoral voting patterns.
 
 **Nnaemeka Enukorah**
+
 **8th May, 2021**
 
 
